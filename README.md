@@ -1,3 +1,13 @@
 # Intro to Self Driving Cars Nanodegree
  
-Certificate coming soon! Will be graduating this week (Feb 17, 2021). Take a look at https://www.udacity.com/course/intro-to-self-driving-cars--nd113
+https://www.udacity.com/course/intro-to-self-driving-cars--nd113
+
+Learned about:
+- Localization
+- Kalman Filters
+- C++
+- Calculus (derivatives, integrals)
+- Computer Vision (OpenCV)
+- Bayesian Thinking
+
+The projects in this repo are the main projects required for submission. I had chosen to include only the code for the main projects with hope that I can inspire someone with their nanodegree.
